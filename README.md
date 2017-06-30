@@ -1,2 +1,2 @@
 # LogisticRegression
-Perform Logistic Regression
+Perform Logistic Regression on test scores and classify them
